@@ -21,7 +21,8 @@ This project is an interactive dashboard built in Power BI to analyze a loan dat
 - `loan_default_analysis.pbix` — Power BI report file
 
 ## 📷 Screenshots
-![Description](/defaulted.png)## 💡 How to Use
+![Description](/defaulted.png)
+## 💡 How to Use
 1. Download and open `loan_default_analysis.pbix` in Power BI Desktop.
 2. Refresh the data.
 3. Explore the dashboard using filters and visuals.
